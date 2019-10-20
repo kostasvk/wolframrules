@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51cde60d68decea73ee8e7ee1403b7b2",
+    "revision": "9e03e59f10d9346f5e74c5447bb20008",
     "url": "/wolframrules/index.html"
   },
   {
-    "revision": "3c4a6ad53cf50128152d",
+    "revision": "3219d784c4444dcc7224",
     "url": "/wolframrules/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wolframrules/static/js/2.6d3e7d18.chunk.js"
   },
   {
-    "revision": "3c4a6ad53cf50128152d",
-    "url": "/wolframrules/static/js/main.8aae6499.chunk.js"
+    "revision": "3219d784c4444dcc7224",
+    "url": "/wolframrules/static/js/main.b878e264.chunk.js"
   },
   {
     "revision": "017614312676fe6800d8",

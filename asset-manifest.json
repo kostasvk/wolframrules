@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wolframrules/static/css/main.b100e6da.chunk.css",
-    "main.js": "/wolframrules/static/js/main.8aae6499.chunk.js",
-    "main.js.map": "/wolframrules/static/js/main.8aae6499.chunk.js.map",
+    "main.js": "/wolframrules/static/js/main.b878e264.chunk.js",
+    "main.js.map": "/wolframrules/static/js/main.b878e264.chunk.js.map",
     "runtime-main.js": "/wolframrules/static/js/runtime-main.883ae70d.js",
     "runtime-main.js.map": "/wolframrules/static/js/runtime-main.883ae70d.js.map",
     "static/js/2.6d3e7d18.chunk.js": "/wolframrules/static/js/2.6d3e7d18.chunk.js",
     "static/js/2.6d3e7d18.chunk.js.map": "/wolframrules/static/js/2.6d3e7d18.chunk.js.map",
     "index.html": "/wolframrules/index.html",
-    "precache-manifest.3a69958658d9eb6e8a243ae091bf59a8.js": "/wolframrules/precache-manifest.3a69958658d9eb6e8a243ae091bf59a8.js",
+    "precache-manifest.d98d668c1f90fd2628b27dd67637f9a4.js": "/wolframrules/precache-manifest.d98d668c1f90fd2628b27dd67637f9a4.js",
     "service-worker.js": "/wolframrules/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/wolframrules/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/wolframrules/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.883ae70d.js",
     "static/js/2.6d3e7d18.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.8aae6499.chunk.js"
+    "static/js/main.b878e264.chunk.js"
   ]
 }
