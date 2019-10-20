@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wolframrules/static/css/main.b100e6da.chunk.css",
+    "main.js": "/wolframrules/static/js/main.870cc0a2.chunk.js",
+    "main.js.map": "/wolframrules/static/js/main.870cc0a2.chunk.js.map",
+    "runtime-main.js": "/wolframrules/static/js/runtime-main.28111cd3.js",
+    "runtime-main.js.map": "/wolframrules/static/js/runtime-main.28111cd3.js.map",
+    "static/js/2.1cbbbaeb.chunk.js": "/wolframrules/static/js/2.1cbbbaeb.chunk.js",
+    "static/js/2.1cbbbaeb.chunk.js.map": "/wolframrules/static/js/2.1cbbbaeb.chunk.js.map",
+    "index.html": "/wolframrules/index.html",
+    "precache-manifest.f4ce5697ccc06b2e8d07818ef32a35d2.js": "/wolframrules/precache-manifest.f4ce5697ccc06b2e8d07818ef32a35d2.js",
+    "service-worker.js": "/wolframrules/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/wolframrules/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/wolframrules/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28111cd3.js",
+    "static/js/2.1cbbbaeb.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.870cc0a2.chunk.js"
+  ]
+}
