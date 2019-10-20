@@ -1,6 +1,6 @@
 {
   "homepage": "http://kostasvk.github.io/wolframrules",
-  "name": "wolframrules",
+  "name": "wolframapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
